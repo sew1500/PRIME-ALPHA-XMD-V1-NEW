@@ -1,12 +1,12 @@
 {
-  "name": "yourbot",
+  "name": "PRIME ALPHA-XMD V1",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "PRIME ALPHA bot created by sheron",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-    "stop": "pm2 stop wabot",
-    "restart": "pm2 restart wabot"
+    "start": "pm2 start index.js --deep-monitoring --attach --PRIME ALPHA-XMD",
+    "stop": "pm2 stop PRIME ALPHA-XMD",
+    "restart": "pm2 restart PRIME ALPHA-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
