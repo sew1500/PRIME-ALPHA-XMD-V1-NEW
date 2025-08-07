@@ -1,13 +1,13 @@
 {
-  "name": "YourBot",
-  "description": "Javascript WhatsApp bot made by YourName",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "name": "PRIME ALPHA-XMD",
+  "description": "Javascript WhatsApp bot made by sheron",
+  "logo": "https://i.ibb.co/s44p1hN/8psu-Pn-Jo-Zr.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "HVlTTQRI#9gBujk5YdEZoVOXqO_U6vGUQ4B0U3I-mVGbJGMD4vpg",
       "required": true
     },  
 
